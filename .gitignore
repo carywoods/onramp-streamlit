@@ -1,2 +1,40 @@
+# Streamlit secrets
 .streamlit/secrets.toml
-.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter notebooks (optional)
+*.ipynb
+
+# Environment files
+.env
+.env.*
+
+# OS & IDE clutter
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# macOS and Linux temp files
+*.swp
+*~
+
+# Backup files
+*.bak
+*.old
+*.orig
+
+# Conda environment
+*.yml
+*.conda
+
+# VSCode or JetBrains hidden settings
+*.code-workspace
+
