@@ -1,0 +1,427 @@
+[
+  {
+    "name": "Alabama State University",
+    "zip": "36104",
+    "tuition_in_state": 7222,
+    "tuition_out_of_state": 15083,
+    "enrollment": 5287,
+    "student_faculty_ratio": 21,
+    "top_majors": [
+      "Public Health",
+      "Nursing",
+      "Sociology"
+    ],
+    "online_available": true,
+    "has_greek_life": true,
+    "first_year_retention_rate": 71,
+    "legacy_score": 4
+  },
+  {
+    "name": "Florida A&M University",
+    "zip": "32307",
+    "tuition_in_state": 6223,
+    "tuition_out_of_state": 11194,
+    "enrollment": 4379,
+    "student_faculty_ratio": 22,
+    "top_majors": [
+      "Criminal Justice",
+      "Sociology",
+      "Public Health"
+    ],
+    "online_available": true,
+    "has_greek_life": false,
+    "first_year_retention_rate": 85,
+    "legacy_score": 4
+  },
+  {
+    "name": "Howard University",
+    "zip": "20059",
+    "tuition_in_state": 8088,
+    "tuition_out_of_state": 10996,
+    "enrollment": 4361,
+    "student_faculty_ratio": 18,
+    "top_majors": [
+      "Education",
+      "Criminal Justice",
+      "Business"
+    ],
+    "online_available": false,
+    "has_greek_life": false,
+    "first_year_retention_rate": 89,
+    "legacy_score": 3
+  },
+  {
+    "name": "Spelman College",
+    "zip": "30314",
+    "tuition_in_state": 8361,
+    "tuition_out_of_state": 10887,
+    "enrollment": 4562,
+    "student_faculty_ratio": 21,
+    "top_majors": [
+      "Nursing",
+      "Business",
+      "Sociology"
+    ],
+    "online_available": true,
+    "has_greek_life": true,
+    "first_year_retention_rate": 88,
+    "legacy_score": 4
+  },
+  {
+    "name": "Tuskegee University",
+    "zip": "36088",
+    "tuition_in_state": 9467,
+    "tuition_out_of_state": 14414,
+    "enrollment": 4719,
+    "student_faculty_ratio": 16,
+    "top_majors": [
+      "Nursing",
+      "Business",
+      "Sociology"
+    ],
+    "online_available": true,
+    "has_greek_life": false,
+    "first_year_retention_rate": 85,
+    "legacy_score": 4
+  },
+  {
+    "name": "North Carolina A&T",
+    "zip": "27411",
+    "tuition_in_state": 6261,
+    "tuition_out_of_state": 10231,
+    "enrollment": 6214,
+    "student_faculty_ratio": 24,
+    "top_majors": [
+      "Biology",
+      "STEM",
+      "Education"
+    ],
+    "online_available": true,
+    "has_greek_life": false,
+    "first_year_retention_rate": 77,
+    "legacy_score": 3
+  },
+  {
+    "name": "Huston-Tillotson University",
+    "zip": "78702",
+    "tuition_in_state": 5139,
+    "tuition_out_of_state": 16068,
+    "enrollment": 2627,
+    "student_faculty_ratio": 11,
+    "top_majors": [
+      "Nursing",
+      "Biology",
+      "Sociology"
+    ],
+    "online_available": false,
+    "has_greek_life": true,
+    "first_year_retention_rate": 64,
+    "legacy_score": 5
+  },
+  {
+    "name": "Bennett College",
+    "zip": "27401",
+    "tuition_in_state": 6728,
+    "tuition_out_of_state": 13500,
+    "enrollment": 4928,
+    "student_faculty_ratio": 11,
+    "top_majors": [
+      "STEM",
+      "Biology",
+      "Nursing"
+    ],
+    "online_available": true,
+    "has_greek_life": false,
+    "first_year_retention_rate": 66,
+    "legacy_score": 3
+  },
+  {
+    "name": "Delaware State University",
+    "zip": "19901",
+    "tuition_in_state": 7832,
+    "tuition_out_of_state": 10580,
+    "enrollment": 4797,
+    "student_faculty_ratio": 24,
+    "top_majors": [
+      "Sociology",
+      "Psychology",
+      "Public Health"
+    ],
+    "online_available": false,
+    "has_greek_life": true,
+    "first_year_retention_rate": 84,
+    "legacy_score": 3
+  },
+  {
+    "name": "Lincoln University (PA)",
+    "zip": "19352",
+    "tuition_in_state": 5677,
+    "tuition_out_of_state": 11087,
+    "enrollment": 5470,
+    "student_faculty_ratio": 25,
+    "top_majors": [
+      "Psychology",
+      "STEM",
+      "Education"
+    ],
+    "online_available": false,
+    "has_greek_life": true,
+    "first_year_retention_rate": 66,
+    "legacy_score": 3
+  },
+  {
+    "name": "Central State University",
+    "zip": "45385",
+    "tuition_in_state": 6941,
+    "tuition_out_of_state": 18172,
+    "enrollment": 6957,
+    "student_faculty_ratio": 13,
+    "top_majors": [
+      "Biology",
+      "Nursing",
+      "Psychology"
+    ],
+    "online_available": true,
+    "has_greek_life": false,
+    "first_year_retention_rate": 70,
+    "legacy_score": 4
+  },
+  {
+    "name": "Grambling State University",
+    "zip": "71245",
+    "tuition_in_state": 9527,
+    "tuition_out_of_state": 15435,
+    "enrollment": 6163,
+    "student_faculty_ratio": 23,
+    "top_majors": [
+      "Business",
+      "STEM",
+      "Psychology"
+    ],
+    "online_available": false,
+    "has_greek_life": true,
+    "first_year_retention_rate": 67,
+    "legacy_score": 4
+  },
+  {
+    "name": "Jackson State University",
+    "zip": "39217",
+    "tuition_in_state": 9447,
+    "tuition_out_of_state": 11813,
+    "enrollment": 4204,
+    "student_faculty_ratio": 20,
+    "top_majors": [
+      "Psychology",
+      "Public Health",
+      "Biology"
+    ],
+    "online_available": true,
+    "has_greek_life": true,
+    "first_year_retention_rate": 73,
+    "legacy_score": 3
+  },
+  {
+    "name": "Southern University and A&M College",
+    "zip": "70813",
+    "tuition_in_state": 7903,
+    "tuition_out_of_state": 15833,
+    "enrollment": 2985,
+    "student_faculty_ratio": 23,
+    "top_majors": [
+      "Business",
+      "Criminal Justice",
+      "Public Health"
+    ],
+    "online_available": false,
+    "has_greek_life": false,
+    "first_year_retention_rate": 60,
+    "legacy_score": 5
+  },
+  {
+    "name": "Winston-Salem State University",
+    "zip": "27110",
+    "tuition_in_state": 6735,
+    "tuition_out_of_state": 15345,
+    "enrollment": 4705,
+    "student_faculty_ratio": 12,
+    "top_majors": [
+      "Biology",
+      "STEM",
+      "Public Health"
+    ],
+    "online_available": true,
+    "has_greek_life": false,
+    "first_year_retention_rate": 81,
+    "legacy_score": 5
+  },
+  {
+    "name": "Prairie View A&M University",
+    "zip": "77446",
+    "tuition_in_state": 6695,
+    "tuition_out_of_state": 15810,
+    "enrollment": 3807,
+    "student_faculty_ratio": 15,
+    "top_majors": [
+      "Sociology",
+      "STEM",
+      "Biology"
+    ],
+    "online_available": true,
+    "has_greek_life": true,
+    "first_year_retention_rate": 66,
+    "legacy_score": 3
+  },
+  {
+    "name": "Fisk University",
+    "zip": "37208",
+    "tuition_in_state": 9064,
+    "tuition_out_of_state": 17429,
+    "enrollment": 4362,
+    "student_faculty_ratio": 16,
+    "top_majors": [
+      "Criminal Justice",
+      "Psychology",
+      "Education"
+    ],
+    "online_available": false,
+    "has_greek_life": false,
+    "first_year_retention_rate": 56,
+    "legacy_score": 4
+  },
+  {
+    "name": "Claflin University",
+    "zip": "29115",
+    "tuition_in_state": 8138,
+    "tuition_out_of_state": 17632,
+    "enrollment": 4805,
+    "student_faculty_ratio": 13,
+    "top_majors": [
+      "Political Science",
+      "Business",
+      "Psychology"
+    ],
+    "online_available": false,
+    "has_greek_life": true,
+    "first_year_retention_rate": 72,
+    "legacy_score": 3
+  },
+  {
+    "name": "Alcorn State University",
+    "zip": "39096",
+    "tuition_in_state": 9226,
+    "tuition_out_of_state": 10557,
+    "enrollment": 6380,
+    "student_faculty_ratio": 24,
+    "top_majors": [
+      "Public Health",
+      "Political Science",
+      "Business"
+    ],
+    "online_available": false,
+    "has_greek_life": true,
+    "first_year_retention_rate": 87,
+    "legacy_score": 3
+  },
+  {
+    "name": "Elizabeth City State University",
+    "zip": "27909",
+    "tuition_in_state": 7038,
+    "tuition_out_of_state": 19542,
+    "enrollment": 6133,
+    "student_faculty_ratio": 24,
+    "top_majors": [
+      "Biology",
+      "Sociology",
+      "Criminal Justice"
+    ],
+    "online_available": true,
+    "has_greek_life": true,
+    "first_year_retention_rate": 74,
+    "legacy_score": 4
+  },
+  {
+    "name": "Morehouse College",
+    "zip": "30314",
+    "tuition_in_state": 7776,
+    "tuition_out_of_state": 11243,
+    "enrollment": 7429,
+    "student_faculty_ratio": 21,
+    "top_majors": [
+      "Nursing",
+      "Public Health",
+      "Business"
+    ],
+    "online_available": true,
+    "has_greek_life": true,
+    "first_year_retention_rate": 77,
+    "legacy_score": 3
+  },
+  {
+    "name": "Norfolk State University",
+    "zip": "23504",
+    "tuition_in_state": 7578,
+    "tuition_out_of_state": 14647,
+    "enrollment": 5691,
+    "student_faculty_ratio": 14,
+    "top_majors": [
+      "Nursing",
+      "Political Science",
+      "Business"
+    ],
+    "online_available": false,
+    "has_greek_life": false,
+    "first_year_retention_rate": 58,
+    "legacy_score": 4
+  },
+  {
+    "name": "Mississippi Valley State University",
+    "zip": "38901",
+    "tuition_in_state": 5151,
+    "tuition_out_of_state": 16211,
+    "enrollment": 8515,
+    "student_faculty_ratio": 16,
+    "top_majors": [
+      "Biology",
+      "STEM",
+      "Political Science"
+    ],
+    "online_available": false,
+    "has_greek_life": true,
+    "first_year_retention_rate": 75,
+    "legacy_score": 4
+  },
+  {
+    "name": "Langston University",
+    "zip": "73050",
+    "tuition_in_state": 9355,
+    "tuition_out_of_state": 10113,
+    "enrollment": 5904,
+    "student_faculty_ratio": 25,
+    "top_majors": [
+      "Psychology",
+      "Biology",
+      "Education"
+    ],
+    "online_available": true,
+    "has_greek_life": true,
+    "first_year_retention_rate": 66,
+    "legacy_score": 4
+  },
+  {
+    "name": "Morgan State University",
+    "zip": "21251",
+    "tuition_in_state": 6780,
+    "tuition_out_of_state": 15845,
+    "enrollment": 8756,
+    "student_faculty_ratio": 23,
+    "top_majors": [
+      "Nursing",
+      "Public Health",
+      "Education"
+    ],
+    "online_available": true,
+    "has_greek_life": true,
+    "first_year_retention_rate": 61,
+    "legacy_score": 5
+  }
+]
