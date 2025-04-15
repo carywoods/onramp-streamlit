@@ -13,7 +13,11 @@ api_key = os.getenv("OPENAI_API_KEY")
 client = OpenAI(api_key=api_key)
 
 # --- Load HBCU data ---
-DATA_PATH = "/home/cary/test_api/synthetic_hbcu_dataset.json"  # update path if needed
+#DATA_PATH = "./synthetic_hbcu_dataset.json"  # update path if needed
+DATA_PATH = os.path.join(os.path.dirname(__file__), "synthetic_hbcu_dataset.json")
+
+
+
 with open(DATA_PATH, "r") as f:
     hbcu_schools = json.load(f)
 
